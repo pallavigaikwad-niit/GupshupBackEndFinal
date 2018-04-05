@@ -1,0 +1,17 @@
+com\niit\daoimpl\BlogDaoImpl.class
+com\niit\GupShupBackEnd\App.class
+com\niit\dao\JobDao.class
+com\niit\controller\DBConfig.class
+com\niit\model\BlogComment.class
+com\niit\model\ForumComment.class
+com\niit\daoimpl\JobDaoImpl.class
+com\niit\model\Blog.class
+com\niit\model\Job.class
+com\niit\model\UserDetail.class
+com\niit\daoimpl\ForumDaoImpl.class
+com\niit\daoimpl\UserDetailsDaoImpl.class
+com\niit\dao\ForumDao.class
+com\niit\dao\UserDetailDao.class
+com\niit\dao\BlogDao.class
+com\niit\model\ApplyJob.class
+com\niit\model\Forum.class
