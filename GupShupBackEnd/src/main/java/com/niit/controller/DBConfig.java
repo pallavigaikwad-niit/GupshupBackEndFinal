@@ -21,7 +21,7 @@ import com.niit.daoimpl.ForumDaoImpl;
 import com.niit.model.Blog;
 
 @Configuration
-@ComponentScan("com.niit")
+@ComponentScan(basePackages="com.niit")
 @EnableTransactionManagement
 public class DBConfig {
 
